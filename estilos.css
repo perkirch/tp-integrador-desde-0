@@ -55,7 +55,7 @@ body{
 
 
 
-/* Barra de navegación hasta 600px*/
+/* Barra de navegación hasta 750px*/
 @media (max-width: 600px){
     .contenedorNav{
         flex-direction:column ;
@@ -123,7 +123,7 @@ h2{
 /* --------------------------------------------------------------- */
 
 
-/* TARJETAS hasta 600px */
+/* TARJETAS hasta 750px */
 @media (max-width:600px){
     .contenedor_tarjetas{
         display: flex;
@@ -189,7 +189,7 @@ FORMULARIO */
     margin-top: 20px;
 }
 #h2_menor2{
-    font-size: 12px;
+    font-size: 9px;
     color: #fff;
     margin-top: 10px;
 }
@@ -229,7 +229,7 @@ FORMULARIO */
    
 }
 .h3_form{
-    font-size: 12px;
+    font-size: 9px;
 }
 /* -------------------------------------------------------------------------- */
 
