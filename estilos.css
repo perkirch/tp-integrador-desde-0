@@ -7,7 +7,20 @@ body{
 /* .padding_afa{
     padding-right: 300px;
 } */
-
+#whatsapp{
+    /* background-color: aqua; */
+    position:fixed;
+    right: 10px;
+    text-align: center;
+}
+#chatea{
+    font-size: 11px;
+    background-color: #34a946;
+    border-radius: 2px;
+}
+#chatea:hover{
+    /* background-color: #d6e248; */
+}
 /* Barra de navegación */
 .contenedorNav{
     background-color: #1d1d1d;
@@ -189,7 +202,7 @@ FORMULARIO */
     margin-top: 20px;
 }
 #h2_menor2{
-    font-size: 9px;
+    font-size: 11px;
     color: #fff;
     margin-top: 10px;
 }
@@ -229,7 +242,7 @@ FORMULARIO */
    
 }
 .h3_form{
-    font-size: 9px;
+    font-size: 11px;
 }
 /* -------------------------------------------------------------------------- */
 
