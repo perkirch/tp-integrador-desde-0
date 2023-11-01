@@ -314,3 +314,56 @@ FORMULARIO */
     border-radius: 4px;
     text-decoration: none;
 }
+
+
+.tarjeta{
+    background-color: rgb(199, 199, 86);
+    width: 220px;
+    height: 220px;
+    border: solid rgb(1, 1, 1);
+    border-radius: 4px;
+  
+}
+.centrar_tarjeta{
+    text-align: center;
+    padding-top: 18px;
+    
+}
+.h2_tarjeta{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+#h2_ticket{
+font-size: 30px;
+margin-bottom: 15px;
+}
+.h3_linea2{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.h3_linea3{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.h3_linea4{
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.linea1_form{
+    margin-bottom: 20px;
+}
+.linea2_form{
+    margin-bottom: 15px;
+}
+.linea3_form{
+    margin-bottom: 20px;
+}
+.linea4_form{
+    background-color: #39b9f9;
+    margin-bottom: 20px;
+}
+.label_white{
+    color:#ffffff
+}
