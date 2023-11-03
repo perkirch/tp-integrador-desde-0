@@ -42,7 +42,7 @@ function resumenForm(){
         capturaTotal.textContent =  totalAPagar + capturaCantidad.value *valorTicket *0.50
     }
     else {
-        capturaTotal.textContent = totalAPagar + capturaCantidad.value *valorTicket *0.15
+        capturaTotal.textContent = totalAPagar + capturaCantidad.value *valorTicket *0.85
     }
 
 }
